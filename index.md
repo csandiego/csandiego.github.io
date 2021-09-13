@@ -40,6 +40,7 @@ Result-oriented and continuously learning Software Engineer with 15 years experi
 
 **Digital Marketing**
 
+- [Google Tag Manager Fundamentals](https://analytics.google.com/analytics/academy/certificate/npGN4VGaRIuOwFS7r5AF8w) on Google Analytics Academy, Sep 2021
 - [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/Os-o08u2QGy4g1f3PxOU6w){:rel="nofollow"} on Google Analytics Academy, Sep 2021
 - [Advanced Content and Social Tactics to Optimize SEO](https://www.coursera.org/account/accomplishments/certificate/8YY75WWWXBT7){:rel="nofollow"} by the University of California, Davis on Coursera, Sep 2021
 - [Optimizing a Website for Google Search](https://www.coursera.org/account/accomplishments/certificate/XX2QW6LSMBB5){:rel="nofollow"} by the University of California, Davis on Coursera, Sep 2021
