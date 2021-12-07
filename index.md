@@ -11,7 +11,7 @@ Result-oriented and continuously learning Software Engineer with 15 years experi
 
 # Skills
 
-- C, C++, Go, Java, Kotlin, Objective-C, Rust, Swift, TypeScript
+- C, C++, Go, Groovy, Java, Kotlin, Objective-C, Rust, Scala, Swift, TypeScript
 - Erlang, JavaScript, Lisp, Lua, Perl, PHP, Python, Ruby, Shell Scripting
 - Android, iOS, Linux, Web
 - AWS, Firebase, Google Cloud
