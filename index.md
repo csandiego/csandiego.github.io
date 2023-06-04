@@ -2,12 +2,12 @@
 layout: default
 title: Christopher San Diego
 description: >-
-  Result-oriented and continuously learning Software Engineer with 15+ years experience. Expertise include mobile, web and cloud technologies.
+  Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience architecting and developing software solutions. Earned numerous certifications from AWS, Google, HackerRank and Microsoft; and proven ability to deliver business objectives. Expertise include mobile, web and cloud technologies.
 ---
 
 # Summary
 
-Result-oriented and continuously learning Software Engineer with 15+ years experience. Expertise include mobile, web and cloud technologies.
+Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience architecting and developing software solutions. Earned numerous certifications from AWS, Google, HackerRank and Microsoft; and proven ability to deliver business objectives. Expertise include mobile, web and cloud technologies.
 
 # Skills
 
