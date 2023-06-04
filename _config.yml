@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Christopher San Diego
-description: Software Engineer (Android, iOS, Web, AWS, Firebase & Google Cloud)
+description: Software Engineer (Android, iOS, Web, AWS, Azure, Firebase & Google Cloud)
 logo: assets/img/profile.png
 
 github:
@@ -37,6 +37,8 @@ social:
     - https://www.linkedin.com/in/csandieg0
     - https://github.com/csandiego
     - https://www.hackerrank.com/csandiego
+    - https://leetcode.com/csandiego
+    - https://drive.google.com/file/d/1FARrkjNqDvLBpyUPtfnSmHLPc8Mn_l-a/view?usp=share_link
 
 twitter:
   username: csandieg0
