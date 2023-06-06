@@ -1,13 +1,27 @@
 ---
 layout: default
 title: Christopher San Diego
-description: >-
-  Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience architecting and developing software solutions. Earned numerous certifications from AWS, Google, HackerRank and Microsoft; and proven ability to deliver business objectives. Expertise include mobile, web and cloud technologies.
+description: "\
+Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience in software development. I help companies achieve business objectives by architecting and developing reliable solutions that scale.
+
+Highlights:
+- Earned numerous certifications from AWS, Google, HackerRank and Microsoft.
+- Improved TraceTogether Android app testability by adopting industry best-practices.
+- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing high-value partner integrations.
+
+I get excited about opportunities to work with serverless cloud-native multi-platform (Android, iOS and web) systems."
 ---
 
 # Summary
 
-Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience architecting and developing software solutions. Earned numerous certifications from AWS, Google, HackerRank and Microsoft; and proven ability to deliver business objectives. Expertise include mobile, web and cloud technologies.
+Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience in software development. I help companies achieve business objectives by architecting and developing reliable solutions that scale.
+
+Highlights:
+- Earned numerous certifications from AWS, Google, HackerRank and Microsoft.
+- Improved TraceTogether Android app testability by adopting industry best-practices.
+- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing high-value partner integrations.
+
+I get excited about opportunities to work with serverless cloud-native multi-platform (Android, iOS and web) systems.
 
 # Skills
 
