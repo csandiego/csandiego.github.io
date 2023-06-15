@@ -7,7 +7,7 @@ Passionate, result-oriented and continuously learning Software Engineer with 15+
 Highlights:
 - Earned numerous certifications from AWS, Google, HackerRank and Microsoft.
 - Improved TraceTogether Android app testability by adopting industry best-practices.
-- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing high-value partner integrations.
+- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing bespoke high-value partner integrations.
 
 I get excited about opportunities to work with serverless cloud-native multi-platform (Android, iOS and web) systems."
 ---
@@ -19,7 +19,7 @@ Passionate, result-oriented and continuously learning Software Engineer with 15+
 Highlights:
 - Earned numerous certifications from AWS, Google, HackerRank and Microsoft.
 - Improved TraceTogether Android app testability by adopting industry best-practices.
-- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing high-value partner integrations.
+- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing bespoke high-value partner integrations.
 
 I get excited about opportunities to work with serverless cloud-native multi-platform (Android, iOS and web) systems.
 
