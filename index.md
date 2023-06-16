@@ -27,7 +27,7 @@ I get excited about opportunities to work with serverless cloud-native multi-pla
 
 - C, C++, Go, Groovy, Haskell, Java, Kotlin, Objective-C, Rust, Scala, Swift, TypeScript
 - Erlang, JavaScript, Lisp, Lua, Perl, PHP, Python, Ruby, Shell Scripting
-- Android, iOS, Web
+- Android, iOS, Web (including ReactJS and Spring Boot)
 - AWS, Azure, Firebase, Google Cloud
 
 # Certifications
