@@ -49,7 +49,7 @@ I get excited about opportunities to work with serverless cloud-native multi-pla
 **Software Development**
 
 - [Developing Applications with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/J667WVKMXDJ7){:rel="nofollow"} by Google Cloud on Coursera, Sep 2020
-- [Architecting with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/specialization/certificate/R3PA848GMMCB){:rel="nofollow"} by Google Cloud on Coursera, Sep 2020
+- [Architecting with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/specialization/certificate/B2YM9B2SLW3E){:rel="nofollow"} by Google Cloud on Coursera, Sep 2020
 - [Architecting with Google Compute Engine](https://www.coursera.org/account/accomplishments/specialization/certificate/655FMUDLMRWG){:rel="nofollow"} by Google Cloud on Coursera, Sep 2020
 - [AWS Developer by AWS Training and Certification](https://www.edx.org/xseries/aws-developer-series){:rel="nofollow"} on edX, Jun 2020
 - [iOS Developer](https://www.udacity.com/course/ios-developer-nanodegree--nd003){:rel="nofollow"} on Udacity, Dec 2019
