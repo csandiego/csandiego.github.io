@@ -2,26 +2,18 @@
 layout: default
 title: Christopher San Diego
 description: "\
-Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience in software development. I help companies achieve business objectives by architecting and developing reliable solutions that scale.
-
-Highlights:
-- Earned numerous certifications from AWS, Google, HackerRank and Microsoft.
-- Improved TraceTogether Android app testability by adopting industry best-practices.
-- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing bespoke high-value partner integrations.
-
-I get excited about opportunities to work with serverless cloud-native multi-platform (Android, iOS and web) systems."
+Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience, and develops for mobile, web and cloud.
+- Earned 8+ certifications from AWS, Google, HackerRank and Microsoft.
+- Improved TraceTogether Android app testability by 25% by using best-practices.
+- Grew PT Excite Indonesia’s monthly revenue 9x in 3 years w/ successful rollouts."
 ---
 
 # Summary
 
-Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience in software development. I help companies achieve business objectives by architecting and developing reliable solutions that scale.
-
-Highlights:
-- Earned numerous certifications from AWS, Google, HackerRank and Microsoft.
-- Improved TraceTogether Android app testability by adopting industry best-practices.
-- Grew PT Excite Indonesia’s monthly revenue ninefold by successfully completing bespoke high-value partner integrations.
-
-I get excited about opportunities to work with serverless cloud-native multi-platform (Android, iOS and web) systems.
+Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience, and develops for mobile, web and cloud.
+- Earned 8+ certifications from AWS, Google, HackerRank and Microsoft.
+- Improved TraceTogether Android app testability by 25% by using best-practices.
+- Grew PT Excite Indonesia’s monthly revenue 9x in 3 years w/ successful rollouts.
 
 # Skills
 
