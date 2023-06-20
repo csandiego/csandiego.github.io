@@ -2,7 +2,7 @@
 layout: default
 title: Christopher San Diego
 description: "\
-Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience, and develops for mobile, web and cloud.
+Result-oriented and continuously learning Software Engineer with 15+ years experience, and develops for mobile, web and cloud. Career highlights include:
 - Earned 8+ certifications from AWS, Google, HackerRank and Microsoft.
 - Improved TraceTogether Android app testability by 25% by using best-practices.
 - Grew PT Excite Indonesia’s monthly revenue 9x in 3 years w/ successful rollouts."
@@ -10,7 +10,7 @@ Passionate, result-oriented and continuously learning Software Engineer with 15+
 
 # Summary
 
-Passionate, result-oriented and continuously learning Software Engineer with 15+ years experience, and develops for mobile, web and cloud.
+Result-oriented and continuously learning Software Engineer with 15+ years experience, and develops for mobile, web and cloud. Career highlights include:
 - Earned 8+ certifications from AWS, Google, HackerRank and Microsoft.
 - Improved TraceTogether Android app testability by 25% by using best-practices.
 - Grew PT Excite Indonesia’s monthly revenue 9x in 3 years w/ successful rollouts.
