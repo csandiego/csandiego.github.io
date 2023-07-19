@@ -3,7 +3,7 @@ layout: default
 title: Christopher San Diego
 description: "\
 Highly capable, result-oriented and continuously learning Software Engineer with 15+ years experience. Develops for mobile, web & cloud.
-- Earned 4+ certifications from AWS, Google, Microsoft, Meta, etc.
+- Earned 5+ certifications from AWS, Google, Microsoft, Meta, etc.
 - Improved TraceTogether Android app testability by 25% by adopting industry best-practices.
 - Grew PT Excite Indonesia’s monthly revenue 9x in 3 years through successful system integrations."
 ---
@@ -11,7 +11,7 @@ Highly capable, result-oriented and continuously learning Software Engineer with
 # Summary
 
 Highly capable, result-oriented and continuously learning Software Engineer with 15+ years experience. Develops for mobile, web & cloud.
-- Earned 4+ certifications from AWS, Google, Microsoft, Meta, etc.
+- Earned 5+ certifications from AWS, Google, Microsoft, Meta, etc.
 - Improved TraceTogether Android app testability by 25% by adopting industry best-practices.
 - Grew PT Excite Indonesia’s monthly revenue 9x in 3 years through successful system integrations.
 
@@ -24,6 +24,7 @@ Highly capable, result-oriented and continuously learning Software Engineer with
 
 # Certifications
 
+- [Meta iOS Developer Certificate](https://www.credly.com/badges/b2c5bf25-e255-401c-a629-d11fd1184f8e/public_url){:rel="nofollow"} from Coursera and Meta, Jul 2023
 - [Meta Android Developer Certificate](https://www.credly.com/badges/9e8b46c8-666a-4a5e-88e6-d15b35d74532/public_url){:rel="nofollow"} from Coursera and Meta, Jul 2023
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/abd79e67-1ba4-4d2f-86c5-dba1afc295cb/public_url){:rel="nofollow"} from Amazon Web Services (AWS), Jun 2023
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/f44e7e29-d9fa-434e-b6c8-ce1fc3b2794e/public_url){:rel="nofollow"} from Microsoft, Mar 2023
