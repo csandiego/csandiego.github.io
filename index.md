@@ -5,7 +5,7 @@ description: "\
 Highly capable, result-oriented and continuously learning Software Engineer with 15+ years experience. Develops for mobile, web & cloud.
 - Earned 10+ certifications from AWS, Google, Microsoft, Meta, etc.
 - Improved TraceTogether Android app testability by 25% by adopting industry best-practices.
-- Grew Excite Indonesia’s monthly revenue 9x in 3 years through successful system integrations."
+- Grew Excite Indonesia’s monthly revenue 9x in 3 years through cost-effective system integrations."
 ---
 
 # Summary
@@ -13,7 +13,7 @@ Highly capable, result-oriented and continuously learning Software Engineer with
 Highly capable, result-oriented and continuously learning Software Engineer with 15+ years experience. Develops for mobile, web & cloud.
 - Earned 10+ certifications from AWS, Google, Microsoft, Meta, etc.
 - Improved TraceTogether Android app testability by 25% by adopting industry best-practices.
-- Grew Excite Indonesia’s monthly revenue 9x in 3 years through successful system integrations.
+- Grew Excite Indonesia’s monthly revenue 9x in 3 years through cost-effective system integrations.
 
 # Skills
 
