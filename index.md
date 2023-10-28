@@ -27,7 +27,7 @@ Highly capable, result-oriented and continuously learning Software Engineer with
 - [Meta iOS Developer Certificate](https://www.credly.com/badges/b2c5bf25-e255-401c-a629-d11fd1184f8e/public_url){:rel="nofollow"} from Coursera and Meta, Jul 2023
 - [Meta Android Developer Certificate](https://www.credly.com/badges/9e8b46c8-666a-4a5e-88e6-d15b35d74532/public_url){:rel="nofollow"} from Coursera and Meta, Jul 2023
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/abd79e67-1ba4-4d2f-86c5-dba1afc295cb/public_url){:rel="nofollow"} from Amazon Web Services (AWS), Jun 2023
-- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/f44e7e29-d9fa-434e-b6c8-ce1fc3b2794e/public_url){:rel="nofollow"} from Microsoft, Mar 2023
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/csandiego/EFDA2AEE1574990A?sharingId=943982716263727D){:rel="nofollow"} from Microsoft, Mar 2023
 - [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/d98e3d1b-e814-4648-adcb-c4e0393d2632){:rel="nofollow"} from Google Cloud, Feb 2023
 - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/Vwk2EJVSpkffafdffRdGBgVw){:rel="nofollow"} from Google, Aug 2021
 - [Go (Basic)](https://www.hackerrank.com/certificates/6371e5486d1d){:rel="nofollow"} from HackerRank, Aug 2021
