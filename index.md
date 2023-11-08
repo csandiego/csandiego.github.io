@@ -2,18 +2,18 @@
 layout: default
 title: Christopher San Diego
 description: "\
-Highly capable, result-oriented and continuously learning Software Engineer with 15+ years experience. Skilled in mobile, web and cloud.
+Software Engineer with 17 years experience.
 - Earned 10+ certifications from AWS, Google, Microsoft, Meta, etc.
-- Led and managed teams of 5-10 software engineers.
-- Grew Excite Indonesia’s monthly revenue 9x through cost-effective solution architecture and delivery."
+- Grew Excite Indonesia’s monthly revenue 9x through cost-effective solution architecture and delivery.
+- Led teams of 5-10 software engineers."
 ---
 
 # Summary
 
-Highly capable, result-oriented and continuously learning Software Engineer with 15+ years experience. Skilled in mobile, web and cloud.
+Software Engineer with 17 years experience.
 - Earned 10+ certifications from AWS, Google, Microsoft, Meta, etc.
-- Led and managed teams of 5-10 software engineers.
 - Grew Excite Indonesia’s monthly revenue 9x through cost-effective solution architecture and delivery.
+- Led teams of 5-10 software engineers.
 
 # Skills
 
