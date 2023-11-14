@@ -5,7 +5,7 @@ description: "\
 Software Engineer with 17 years experience.
 - Earned 10+ certifications from AWS, Google, Microsoft, Meta, etc.
 - Grew Excite Indonesia’s monthly revenue 9x through cost-effective solution architecture and delivery.
-- Led teams of 5-10 software engineers."
+- Led teams of 5-10 software engineers adopting agile methodologies."
 ---
 
 # Summary
@@ -13,7 +13,7 @@ Software Engineer with 17 years experience.
 Software Engineer with 17 years experience.
 - Earned 10+ certifications from AWS, Google, Microsoft, Meta, etc.
 - Grew Excite Indonesia’s monthly revenue 9x through cost-effective solution architecture and delivery.
-- Led teams of 5-10 software engineers.
+- Led teams of 5-10 software engineers adopting agile methodologies.
 
 # Skills
 
