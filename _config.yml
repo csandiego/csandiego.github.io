@@ -41,6 +41,9 @@ social:
 
 google_analytics: G-PPJ4S11JQ6
 
+host: 0.0.0.0
+port: 80
+
 # Build settings
 # theme: minima
 # plugins:

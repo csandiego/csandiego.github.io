@@ -14,13 +14,8 @@ main {
   display: flex;
   flex-direction: column;
   gap: 32px;
-  margin: 128px auto 32px auto;
+  margin: 128px auto 64px auto;
   width: 342px;
-}
-
-img {
-  height: 128px;
-  width: 128px;
 }
 
 h1 {
