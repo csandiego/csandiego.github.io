@@ -33,11 +33,19 @@ p {
 
 ul {
   display: flex;
-  flex-direction: column;
-  gap: 32px;
   list-style-type: none;
   padding: 0;
   width: 100%;
+}
+
+#certifications {
+  gap: 16px;
+  justify-content: center;
+}
+
+#links {
+  flex-direction: column;
+  gap: 32px;
 }
 
 a {
