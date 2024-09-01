@@ -6,8 +6,10 @@ layout: default
   <img src="assets/img/avatar.png" alt="{{ site.social.name }}">
   <h1>Christopher San&nbsp;Diego</h1>
   <p>{{ site.description }}</p>
-  <div><a href="mailto:{{ site.email }}" rel="nofollow">{{ site.email }}</a></div>
-  {%- for link in site.social.links -%}
-  <div><a href="{{ link }}" rel="nofollow">{{ link }}</a></div>
-  {%- endfor -%}
+  <ul>
+    <li><a href="mailto:{{ site.email }}" rel="nofollow">{{ site.email }}</a></li>
+    {%- for link in site.social.links -%}
+    <li><a href="{{ link }}" rel="nofollow">{{ link }}</a></li>  
+    {%- endfor -%}
+  </ul>
 </main>
