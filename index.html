@@ -3,14 +3,26 @@ layout: default
 ---
 
 <main>
-  <img src="assets/img/avatar.png" alt="{{ site.social.name }}">
-  <h1>Christopher San&nbsp;Diego</h1>
+  <img src="assets/img/avatar.png" alt="{{ site.social.name }}" title="{{ site.social.name }}">
+  <h1>{{ site.title }}</h1>
   <p>{{ site.description }}</p>
   <ul id="certifications">
-    <li><a href="https://www.credly.com/badges/abb42a5c-a0bf-4b07-9311-ba4d5ed52b3c/public_url" rel="nofollow"><img src="assets/img/aws-certified-solutions-architect-professional.png" alt="AWS Certified Solutions Architect – Professional"></a></li>
-    <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/csandiego/D922DB98451C9999?sharingId=943982716263727D" rel="nofollow"><img src="assets/img/azure-solutions-architect-expert.png" alt="Microsoft Certified: Azure Solutions Architect Expert"></a></li>
+    <li>
+      <a href="https://www.credly.com/badges/abb42a5c-a0bf-4b07-9311-ba4d5ed52b3c/public_url" rel="nofollow">
+        <img src="assets/img/aws-certified-solutions-architect-professional.png"
+          alt="AWS Certified Solutions Architect – Professional"
+          title="AWS Certified Solutions Architect – Professional">
+      </a>
+    </li>
+    <li>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/csandiego/D922DB98451C9999?sharingId=943982716263727D" rel="nofollow">
+        <img src="assets/img/azure-solutions-architect-expert.png"
+          alt="Microsoft Certified: Azure Solutions Architect Expert"
+          title="Microsoft Certified: Azure Solutions Architect Expert">
+      </a>
+    </li>
   </ul>
-  <ul id="links">
+  <ul id="social">
     <li><a href="mailto:{{ site.email }}" rel="nofollow">{{ site.email }}</a></li>
     {%- for link in site.social.links -%}
     <li><a href="{{ link }}" rel="nofollow">{{ link }}</a></li>  
