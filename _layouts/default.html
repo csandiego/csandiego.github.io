@@ -5,14 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {%- seo -%}
+    <meta http-equiv="content-security-policy" content="default-src 'self'; connect-src https://*.google-analytics.com; font-src https://fonts.gstatic.com; script-src 'unsafe-inline' blob: https://*.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
-    <meta http-equiv="content-security-policy" content="default-src 'self'; connect-src https://*.google-analytics.com; font-src https://fonts.gstatic.com; script-src 'unsafe-inline' blob: https://*.googletagmanager.com; style-src 'unsafe-inline' https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    {%- for link in page.preload.images -%}
+    <link rel="preload" as="image" href="{{ link }}">
+    {%- endfor -%}
+    {%- for link in page.preload.styles -%}
+    <link rel="preload" as="style" href="{{ link }}">
+    {%- endfor -%}
+    {%- if jekyll.environment == 'production' and site.google_analytics -%}
+      {%- include google-analytics.html -%}
+    {%- endif -%}
   </head>
   <body>
     {{ content }}
