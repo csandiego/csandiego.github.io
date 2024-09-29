@@ -21,9 +21,9 @@
 title: "Christopher San\u00a0Diego"
 email: hello@csandiego.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Leading Startup Engineering Teams | Transforming Innovative Ideas
-  into Market-Ready Products | Leveraging Mobile, Web, Cloud, and AI
-  Technologies
+  CTO, VP of Engineering & Head of Engineering in Startups |
+  Transforming Ideas into Market-Ready Solutions |
+  AWS, Azure & Google Certified
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: csandieg0
