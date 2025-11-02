@@ -22,9 +22,9 @@ title: "Christopher San\u00a0Diego"
 email: hello@csandiego.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Software Engineer |
-  15+ Years of Leadership Experience |
-  AWS, Azure, and Google Cloud Certified |
-  Agile and Scrum Practitioner
+  AI & Cloud Solutions |
+  Mobile & Web Development |
+  18+ Years Leading Scalable Platforms
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.csandiego.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: csandieg0
@@ -36,6 +36,7 @@ social:
   name: Christopher San Diego
   links:
     - https://www.linkedin.com/in/csandieg0
+    - https://github.com/csandiego
 
 google_analytics: G-PPJ4S11JQ6
 
