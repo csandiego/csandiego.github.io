@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Senior Software Engineer |
   AI & Cloud Solutions |
   Mobile & Web Development |
-  18+ Years Leading Scalable Platforms
+  10+ Years Leading Scalable Platforms
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.csandiego.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: csandieg0
